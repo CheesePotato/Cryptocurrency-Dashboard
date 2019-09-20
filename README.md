@@ -1,4 +1,4 @@
-# Cryptocurrency-Dashboard - R Shiny Dashboard
+# Cryptocurrency Dashboard - R Shiny Dashboard
 
 ## Data: https://coinmarketcap.com/gainers-losers/
 
